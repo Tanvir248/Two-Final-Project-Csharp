@@ -1,0 +1,37 @@
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\HDA(Hospital Data Analysis).exe.config
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\HDA(Hospital Data Analysis).exe
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\HDA(Hospital Data Analysis).pdb
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).csprojAssemblyReference.cache
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA_Hospital_Data_Analysis_.Form1.resources
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA_Hospital_Data_Analysis_.Properties.Resources.resources
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).csproj.GenerateResource.cache
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).exe
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).pdb
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA(Hospital Data Analysis).csproj.CopyComplete
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA_Hospital_Data_Analysis_.Form2.resources
+C:\Users\User\source\repos\HDA(Hospital Data Analysis)\HDA(Hospital Data Analysis)\obj\Debug\HDA_Hospital_Data_Analysis_.NewDiseas.resources

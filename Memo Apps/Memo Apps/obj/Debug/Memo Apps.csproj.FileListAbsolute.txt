@@ -1,0 +1,39 @@
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Memo Apps.exe.config
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Memo Apps.exe
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Memo Apps.pdb
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo_Apps.Form1.resources
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo_Apps.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.exe
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.pdb
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo_Apps.Form2.resources
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo_Apps.Form3.resources
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\WhatsAppApi.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Zstandard.Net.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Renci.SshNet.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo_Apps.Form4.resources
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\Renci.SshNet.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\C# Project Final\Memo Apps\Memo Apps\obj\Debug\Memo Apps.csprojAssemblyReference.cache
